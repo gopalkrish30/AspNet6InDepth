@@ -38,7 +38,7 @@ app.MapPost("/test-post-middleware", async (context) =>
 });
 
 
-//app.Use gives control to the next middleware
+//app.Use gives control to the next middleware.
 
 app.Use(async (context, next) =>
 {
