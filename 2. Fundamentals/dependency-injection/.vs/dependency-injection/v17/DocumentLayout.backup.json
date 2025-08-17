@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|c:\\users\\gmurali\\source\\aspnet6\\2. fundamentals\\dependency-injection\\src\\api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|solutionrelative:src\\api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|c:\\users\\gmurali\\source\\aspnet6\\2. fundamentals\\dependency-injection\\src\\api\\controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|solutionrelative:src\\api\\controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|c:\\users\\gmurali\\source\\aspnet6\\2. fundamentals\\dependency-injection\\src\\api\\services\\dummyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|solutionrelative:src\\api\\services\\dummyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|c:\\users\\gmurali\\source\\aspnet6\\2. fundamentals\\dependency-injection\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|solutionrelative:src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|c:\\users\\gmurali\\source\\aspnet6\\2. fundamentals\\dependency-injection\\src\\api\\interfaces\\idummyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|solutionrelative:src\\api\\interfaces\\idummyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|c:\\users\\gmurali\\source\\aspnet6\\2. fundamentals\\dependency-injection\\src\\api\\services\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|solutionrelative:src\\api\\services\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|c:\\users\\gmurali\\source\\aspnet6\\2. fundamentals\\dependency-injection\\src\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|solutionrelative:src\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|c:\\users\\gmurali\\source\\aspnet6\\2. fundamentals\\dependency-injection\\src\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|solutionrelative:src\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|c:\\users\\gmurali\\source\\aspnet6\\2. fundamentals\\dependency-injection\\src\\api\\interfaces\\itransitiveoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|solutionrelative:src\\api\\interfaces\\itransitiveoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|c:\\users\\gmurali\\source\\aspnet6\\2. fundamentals\\dependency-injection\\src\\api\\interfaces\\isingletonoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|solutionrelative:src\\api\\interfaces\\isingletonoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|c:\\users\\gmurali\\source\\aspnet6\\2. fundamentals\\dependency-injection\\src\\api\\interfaces\\iscopedoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|solutionrelative:src\\api\\interfaces\\iscopedoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|c:\\users\\gmurali\\source\\aspnet6\\2. fundamentals\\dependency-injection\\src\\api\\interfaces\\ioperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5250373A-AC0B-4602-A50C-26ABE6B52ADD}|src\\Api\\Api.csproj|solutionrelative:src\\api\\interfaces\\ioperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\.gitignore",
+              "RelativeDocumentMoniker": "src\\Api\\.gitignore",
+              "ToolTip": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\.gitignore",
+              "RelativeToolTip": "src\\Api\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-17T06:03:34.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDummyService.cs",
+              "DocumentMoniker": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Interfaces\\IDummyService.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Interfaces\\IDummyService.cs",
+              "ToolTip": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Interfaces\\IDummyService.cs",
+              "RelativeToolTip": "src\\Api\\Interfaces\\IDummyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:43:05.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DummyService.cs",
+              "DocumentMoniker": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Services\\DummyService.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Services\\DummyService.cs",
+              "ToolTip": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Services\\DummyService.cs",
+              "RelativeToolTip": "src\\Api\\Services\\DummyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:42:54.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Api",
+              "DocumentMoniker": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "src\\Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Api.csproj",
+              "RelativeToolTip": "src\\Api\\Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-17T05:35:56.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperationController.cs",
+              "DocumentMoniker": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Controllers\\OperationController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Controllers\\OperationController.cs",
+              "ToolTip": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Controllers\\OperationController.cs",
+              "RelativeToolTip": "src\\Api\\Controllers\\OperationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:28:52.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperationService.cs",
+              "DocumentMoniker": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Services\\OperationService.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Services\\OperationService.cs",
+              "ToolTip": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Services\\OperationService.cs",
+              "RelativeToolTip": "src\\Api\\Services\\OperationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:10:48.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITransitiveOperation.cs",
+              "DocumentMoniker": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Interfaces\\ITransitiveOperation.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Interfaces\\ITransitiveOperation.cs",
+              "ToolTip": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Interfaces\\ITransitiveOperation.cs",
+              "RelativeToolTip": "src\\Api\\Interfaces\\ITransitiveOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:09:26.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IScopedOperation.cs",
+              "DocumentMoniker": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Interfaces\\IScopedOperation.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Interfaces\\IScopedOperation.cs",
+              "ToolTip": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Interfaces\\IScopedOperation.cs",
+              "RelativeToolTip": "src\\Api\\Interfaces\\IScopedOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:09:16.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISingletonOperation.cs",
+              "DocumentMoniker": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Interfaces\\ISingletonOperation.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Interfaces\\ISingletonOperation.cs",
+              "ToolTip": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Interfaces\\ISingletonOperation.cs",
+              "RelativeToolTip": "src\\Api\\Interfaces\\ISingletonOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:08:55.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOperation.cs",
+              "DocumentMoniker": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Interfaces\\IOperation.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Interfaces\\IOperation.cs",
+              "ToolTip": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Interfaces\\IOperation.cs",
+              "RelativeToolTip": "src\\Api\\Interfaces\\IOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:07:38.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Api",
+              "DocumentMoniker": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "src\\Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Api.csproj",
+              "RelativeToolTip": "src\\Api\\Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-16T12:29:46.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Program.cs",
+              "ToolTip": "C:\\Users\\gmurali\\source\\AspNet6\\2. Fundamentals\\dependency-injection\\src\\Api\\Program.cs",
+              "RelativeToolTip": "src\\Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:29:47.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
