@@ -9,7 +9,24 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
 builder.Services.AddScoped<IMiddleware,FactoryMiddleware>();
+
+builder.Services.AddCors( options =>
+{
+    options.AddPolicy("Dev_Policy", builder =>
+    {
+        builder.AllowAnyHeader();
+        builder.AllowAnyMethod();
+        builder.AllowAnyOrigin();
+    });
+    options.AddPolicy("Prod_Policy", builder =>
+    {
+        builder.WithOrigins("https://www.google.com");
+        builder.WithMethods("GET", "POST");
+    });
+});
 
 
 var app = builder.Build();
@@ -42,7 +59,7 @@ app.MapPost("/test-post-middleware", async (context) =>
 
 app.Use(async (context, next) =>
 {
-    app.Logger.LogInformation("Entering First Middleware");
+    app.Logger.LogInformation("Entering First Middleware"); 
 await next();
 app.Logger.LogInformation("Exiting First Middleware");
 });
@@ -54,9 +71,16 @@ app.Use(async (context, next) =>
     app.Logger.LogInformation("Exiting Second Middleware");
 });
 
-//app.UseMiddleware<CustomMiddleware>();
+if (app.Environment.IsDevelopment())
+    app.UseCors("Dev_Policy");
+else
+    app.UseCors("Prod_Policy");
 
-//app.UseMiddleware<IMiddleware>();
+    //app.UseMiddleware<CustomMiddleware>();
+
+    //app.UseMiddleware<IMiddleware>();
+
+app.UseMiddleware<CorreleationIdMiddleware>();
 
 app.UseMiddleware<UnhandledExceptionMiddleware>();
 
@@ -69,6 +93,8 @@ app.UseMiddleware<UnhandledExceptionMiddleware>();
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.UseStaticFiles();
 
 app.MapControllers();
 
